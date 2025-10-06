@@ -1,0 +1,5 @@
+speechRecognition
+pyttSsx3
+pyaudio
+pyautogui
+requests
